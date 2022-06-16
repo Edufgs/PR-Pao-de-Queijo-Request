@@ -19,9 +19,9 @@ Fique atento, que `<SEU-USUARIO>` é Case Sensitive (respeita maiúsculas e min�
     
 ```
 ---
-user: Sua github user
+user: Edufgs
 time: 2022-06-16 11:00:00
-quote: Sua frase aqui.
+quote: Pegar uma alexa na maquina de premio
 ---
 ```
   
